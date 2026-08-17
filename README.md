@@ -10,6 +10,9 @@ across game versions, you should use deterministic pattern/AOB scanning as a
 best practice. Lastly, the toolkit is only expected to work on MEmu running
 Android 9.
 
+For technical questions, you can also join the community Discord at
+[discord.gg/nxrth](https://discord.gg/nxrth).
+
 ## Purpose
 
 This project is a small, extensible reference for loading ARM64 guest code into
